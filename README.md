@@ -15,12 +15,12 @@
 
 ```yaml
 name: Nandhana
-vibe: calm but chaotic sometimes 😭
+vibe: Running on hope, delusion, and low battery 😭
 favorite_things:
   - sunsets 🌅
   - music 🎧
-  - cute aesthetics 🎀
-  - random late night thoughts 🌙
+  - doing nothing 🎀
+  - sleep 🌙
   - good food 🍜
 energy: sleepy but trying my best ✨
 ```
@@ -29,12 +29,10 @@ energy: sleepy but trying my best ✨
 
 ## 🌷 Little Things I Love
 
-* 🌸 Soft pink skies
-* ☕ Peaceful café moments
 * 🎶 Listening to songs on repeat
 * 📷 Taking random pretty pictures
 * 🌧 Rainy weather and cozy vibes
-* ✨ Romanticizing life for no reason
+* ✨ fictionnn
 
 ---
 
@@ -58,7 +56,7 @@ enjoy the little moments 💕
 
 ## 🎧 Current Mood
 
-> existing beautifully with a little bit of chaos 💖
+> "when all else fails there's always delusion" 💖
 
 ---
 
